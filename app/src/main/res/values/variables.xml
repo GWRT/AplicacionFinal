@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginBottomEditText">10dp</dimen>
+    <dimen name="horizontalSpace">20dp</dimen>
+    <color name="main_color">#c2d64b</color>
+</resources>

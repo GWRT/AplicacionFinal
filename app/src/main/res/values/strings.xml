@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacionFinal</string>
+    <string name="usuario">Usuario</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contrseña</string>
+    <string name="confirmarContraseña">Confirmar Contraseña</string>
+</resources>
